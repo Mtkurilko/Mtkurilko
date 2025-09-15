@@ -3,7 +3,7 @@
 I’m a 19-year-old student who’s into **art, computer science, music, writing, cooking, and games**.  
 Basically, if it involves creating something — I’m probably messing around with it.  
 
-I’m also the **founder and owner of Mythron LLC**, a software development company that’s on the edge of publishing its first software/app solutions. 🚀  
+I’m also the **founder and owner of Mythron LLC**, a software development company that’s on the edge of publishing its first software/app solutions. 
 
 ---
 
@@ -27,7 +27,6 @@ I’m also the **founder and owner of Mythron LLC**, a software development comp
 ---
 
 ### 📊 GitHub Stuff
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mtkurilko&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mtkurilko&layout=compact&theme=tokyonight)  
 
 ---
