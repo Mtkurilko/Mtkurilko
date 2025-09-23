@@ -27,7 +27,9 @@ I’m also the **founder and owner of Mythron LLC**, a software development comp
 ---
 
 ### 📊 GitHub Stuff
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mtkurilko&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mtkurilko&layout=compact&theme=tokyonight)
+
+A lot of my more complex/useful projects (not just a silly day project) are private. Feel free to reach out if you are interested. I do a lot of data analysis in Python and lots of web/mobile app development in React/React Native. 
 
 ---
 
