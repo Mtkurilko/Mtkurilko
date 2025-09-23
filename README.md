@@ -12,8 +12,8 @@ I’m also the **founder and owner of Mythron LLC**, a software development comp
 - Biggest JS fan (from vanilla to React Native)  
 - Random project dev + creative coding  
 - Writing (yes, books *and* code — storytelling in different formats)  
-- Experimenting in the kitchen (debugging recipes too)  
-- Mixing music + tech (because why not?)  
+- Experimenting in the kitchen (I like to think I'm a good cook)  
+- Mixing music + tech 
 
 ---
 
